@@ -1,0 +1,15 @@
+git config --global user.name "nobody101212"
+git config --global user.email "adahankachaganovvv@gmail.com"
+========================================================================================================================
+git init
+git remote add origin https://github.com/nobody101212/oop-61-2.git
+========================================================================================================================
+
+
+
+
+
+
+
+
+git status
