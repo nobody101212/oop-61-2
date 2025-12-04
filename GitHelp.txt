@@ -13,3 +13,5 @@ git remote add origin https://github.com/nobody101212/oop-61-2.git
 
 
 git status
+git add .
+git commit -m "same text"
