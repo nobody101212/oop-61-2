@@ -1,5 +1,5 @@
 class Hero:
-
+ 
 
     # Конструктор класса
     def __init__(self, name, lvl, hp):
